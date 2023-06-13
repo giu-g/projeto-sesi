@@ -1,0 +1,130 @@
+.cabecalho1{
+    text-align: center;
+    background-color: #5E1224;
+    color: white;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cabecalho2{
+    margin-top: 3%;
+    text-align: center;
+    background-color: #a9a6a6;
+    color: white;
+    font-size: xxx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.menu{
+    margin-top: 3%;
+    text-align: center;
+    background-color: #a9a6a6;
+    color: white;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0.2cm;
+}
+.corpo1{
+    
+    padding-left: 0.5cm;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    padding-right: 0.5cm;
+    border-color: #5E1224;
+    background-color: #5E1224;
+    text-align:center;
+    font-size: large;
+    letter-spacing: 0.1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+}
+.corpo2{
+    border-color: #a9a6a6;
+    background-color: #a9a6a6;
+    text-align:center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    padding-bottom: 1cm;
+}
+.corpo3{
+    background: #5E1224;
+    text-align:center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+    padding-bottom: 1cm;
+}
+.corpo4{
+    border-color: #a9a6a6;
+    background-color: #a9a6a6;
+    text-align:center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+    padding-bottom: 1cm;
+}
+.corpo5{
+    border-color: #5E1224;
+    background-color: #5E1224;
+    text-align:center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+    padding-bottom: 1cm;
+}
+
+.imagem{
+    margin-top: 1cm;
+}
+
+.corpo6{
+    
+    padding-left: 0.5cm;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    padding-right: 0.5cm;
+    border-color: black;
+    background-color: black;
+    text-align:center;
+    font-size: large;
+    letter-spacing: 0.1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+}
+.corpo7{
+    
+    padding-left: 0.5cm;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    padding-right: 0.5cm;
+    border-color: #5E1224;
+    background-color: #5E1224;
+    text-align:center;
+    font-size: medium;
+    letter-spacing: 0.1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+}
+.corpo8{
+    
+    padding-left: 0.5cm;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    padding-right: 0.5cm;
+    border-color: red;
+    background-color: red;
+    text-align:center;
+    font-size: medium;
+    letter-spacing: 0.1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-top: 1cm;
+}
